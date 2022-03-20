@@ -1,4 +1,4 @@
-_[back](../readme.md)_
+_[back](../)_
 
 # Google Sheets Integration Example
 
