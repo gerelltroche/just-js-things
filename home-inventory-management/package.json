@@ -1,0 +1,11 @@
+{
+  "name": "home-inventory-management",
+  "version": "1.0.0",
+  "description": "Manage when it's time to re-order things around the house.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
